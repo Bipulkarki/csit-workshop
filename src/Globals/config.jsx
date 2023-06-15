@@ -1,0 +1,1 @@
+export const baseUrl="https://64855cdba795d24810b6df47.mockapi.io/Reactjs/";
